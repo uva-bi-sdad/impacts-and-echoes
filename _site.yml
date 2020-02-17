@@ -1,0 +1,16 @@
+name: "impacts-and-echoes"
+output_dir: "."
+navbar:
+  title: "Impacts & Echoes"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Interactive Timeline"
+      href: interactive-timelines.html 
+    - text: "Text Analysis of WHC Report"
+      href: 1969-whc-text-analysis.html      
+    - text: "Nutrition Lit (1919-1989)"
+      href: word-frequencies-1919-1989.html 
+    - text: "Nutrition Lit (1990-2018)"
+      href: word-frequencies-1990-2018.html 
+
